@@ -1,0 +1,21 @@
+15:29:45.274 INFO [GridLauncherV3.launch] - Selenium build info: version: '3.14.0', revision: 'aacccce0'
+15:29:45.277 INFO [GridLauncherV3$1.launch] - Launching a standalone Selenium Server on port 4444
+2019-04-26 15:29:45.417:INFO::main: Logging initialized @421ms to org.seleniumhq.jetty9.util.log.StdErrLog
+15:29:45.570 INFO [SeleniumServer.boot] - Selenium Server is up and running on port 4444
+15:29:46.100 INFO [ActiveSessionFactory.apply] - Capabilities are: {
+  "acceptSslCerts": true,
+  "browserName": "chrome",
+  "chromeOptions": {
+    "args": [
+      "Mozilla\u002f5.0 (iPhone; CPU iPhone OS 5_0 like Mac OS X) AppleWebKit\u002f534.46\n            (KHTML, like Gecko) Version\u002f5.1 Mobile\u002f9A334 Safari\u002f7534.48.3",
+      "--window-size=640,1136"
+    ]
+  },
+  "javascriptEnabled": true,
+  "name": "Isentia"
+}
+15:29:46.102 INFO [ActiveSessionFactory.lambda$apply$11] - Matched factory org.openqa.selenium.remote.server.ServicedSession$Factory (provider: org.openqa.selenium.chrome.ChromeDriverService)
+Starting ChromeDriver 2.41.578706 (5f725d1b4f0a4acbf5259df887244095596231db) on port 4810
+Only local connections are allowed.
+15:29:47.352 INFO [ProtocolHandshake.createSession] - Detected dialect: OSS
+15:29:47.580 INFO [RemoteSession$Factory.lambda$performHandshake$0] - Started new session e2c0219a4e26836e5cc52bf055bbca8c (org.openqa.selenium.chrome.ChromeDriverService)

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="guineaPig"
+    errors="0" failures="0" hostname="" id="" package="guineaPig" skipped="0"
+    tests="1" time="2.944" timestamp="Sat, 08 Sep 2018 13:47:57 GMT">
+  
+    <testcase name="Guinea Pig Assert Title" classname="guineaPig" time="2.944" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
